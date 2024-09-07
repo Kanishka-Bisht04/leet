@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Kanishka-Bisht04/leet/tree/master/0001-two-sum) |
 | [0238-product-of-array-except-self](https://github.com/Kanishka-Bisht04/leet/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/Kanishka-Bisht04/leet/tree/master/0283-move-zeroes) |
 | [2155-find-missing-observations](https://github.com/Kanishka-Bisht04/leet/tree/master/2155-find-missing-observations) |
 ## Hash Table
 |  |
@@ -45,4 +46,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Kanishka-Bisht04/leet/tree/master/0238-product-of-array-except-self) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Kanishka-Bisht04/leet/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
