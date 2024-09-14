@@ -8,6 +8,7 @@
 | [0031-next-permutation](https://github.com/Kanishka-Bisht04/leet/tree/master/0031-next-permutation) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kanishka-Bisht04/leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/Kanishka-Bisht04/leet/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Kanishka-Bisht04/leet/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Kanishka-Bisht04/leet/tree/master/0283-move-zeroes) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Kanishka-Bisht04/leet/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Kanishka-Bisht04/leet/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -16,11 +17,13 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kanishka-Bisht04/leet/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/Kanishka-Bisht04/leet/tree/master/0268-missing-number) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Kanishka-Bisht04/leet/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Math
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Kanishka-Bisht04/leet/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Kanishka-Bisht04/leet/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Kanishka-Bisht04/leet/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Kanishka-Bisht04/leet/tree/master/1236-n-th-tribonacci-number) |
 | [2155-find-missing-observations](https://github.com/Kanishka-Bisht04/leet/tree/master/2155-find-missing-observations) |
@@ -29,6 +32,7 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Kanishka-Bisht04/leet/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Kanishka-Bisht04/leet/tree/master/0268-missing-number) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Kanishka-Bisht04/leet/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Kanishka-Bisht04/leet/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Kanishka-Bisht04/leet/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -78,4 +82,12 @@
 |  |
 | ------- |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Kanishka-Bisht04/leet/tree/master/1786-count-the-number-of-consistent-strings) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Kanishka-Bisht04/leet/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Kanishka-Bisht04/leet/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
