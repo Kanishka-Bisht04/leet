@@ -10,6 +10,7 @@
 | [0238-product-of-array-except-self](https://github.com/Kanishka-Bisht04/leet/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Kanishka-Bisht04/leet/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Kanishka-Bisht04/leet/tree/master/0283-move-zeroes) |
+| [0539-minimum-time-difference](https://github.com/Kanishka-Bisht04/leet/tree/master/0539-minimum-time-difference) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Kanishka-Bisht04/leet/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Kanishka-Bisht04/leet/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Kanishka-Bisht04/leet/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -27,6 +28,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/Kanishka-Bisht04/leet/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/Kanishka-Bisht04/leet/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Kanishka-Bisht04/leet/tree/master/0268-missing-number) |
+| [0539-minimum-time-difference](https://github.com/Kanishka-Bisht04/leet/tree/master/0539-minimum-time-difference) |
 | [1013-fibonacci-number](https://github.com/Kanishka-Bisht04/leet/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Kanishka-Bisht04/leet/tree/master/1236-n-th-tribonacci-number) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Kanishka-Bisht04/leet/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -83,6 +85,7 @@
 ## String
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/Kanishka-Bisht04/leet/tree/master/0539-minimum-time-difference) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Kanishka-Bisht04/leet/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Counting
 |  |
@@ -96,4 +99,5 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Kanishka-Bisht04/leet/tree/master/0268-missing-number) |
+| [0539-minimum-time-difference](https://github.com/Kanishka-Bisht04/leet/tree/master/0539-minimum-time-difference) |
 <!---LeetCode Topics End-->
