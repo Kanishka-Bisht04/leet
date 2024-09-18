@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Kanishka-Bisht04/leet/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Kanishka-Bisht04/leet/tree/master/0031-next-permutation) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kanishka-Bisht04/leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0179-largest-number](https://github.com/Kanishka-Bisht04/leet/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/Kanishka-Bisht04/leet/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Kanishka-Bisht04/leet/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Kanishka-Bisht04/leet/tree/master/0283-move-zeroes) |
@@ -86,6 +87,7 @@
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Kanishka-Bisht04/leet/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/Kanishka-Bisht04/leet/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Kanishka-Bisht04/leet/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Kanishka-Bisht04/leet/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -101,6 +103,11 @@
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Kanishka-Bisht04/leet/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/Kanishka-Bisht04/leet/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/Kanishka-Bisht04/leet/tree/master/0539-minimum-time-difference) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Kanishka-Bisht04/leet/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
