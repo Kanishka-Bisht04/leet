@@ -29,6 +29,7 @@
 | [0009-palindrome-number](https://github.com/Kanishka-Bisht04/leet/tree/master/0009-palindrome-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Kanishka-Bisht04/leet/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/Kanishka-Bisht04/leet/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Kanishka-Bisht04/leet/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/Kanishka-Bisht04/leet/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/Kanishka-Bisht04/leet/tree/master/0539-minimum-time-difference) |
 | [1013-fibonacci-number](https://github.com/Kanishka-Bisht04/leet/tree/master/1013-fibonacci-number) |
@@ -49,16 +50,19 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Kanishka-Bisht04/leet/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Kanishka-Bisht04/leet/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/Kanishka-Bisht04/leet/tree/master/1013-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kanishka-Bisht04/leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Kanishka-Bisht04/leet/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/Kanishka-Bisht04/leet/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Kanishka-Bisht04/leet/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Kanishka-Bisht04/leet/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/Kanishka-Bisht04/leet/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Kanishka-Bisht04/leet/tree/master/1236-n-th-tribonacci-number) |
 ## Simulation
@@ -88,6 +92,7 @@
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Kanishka-Bisht04/leet/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Kanishka-Bisht04/leet/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/Kanishka-Bisht04/leet/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Kanishka-Bisht04/leet/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Kanishka-Bisht04/leet/tree/master/1786-count-the-number-of-consistent-strings) |
