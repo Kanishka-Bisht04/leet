@@ -13,6 +13,7 @@
 | [0283-move-zeroes](https://github.com/Kanishka-Bisht04/leet/tree/master/0283-move-zeroes) |
 | [0539-minimum-time-difference](https://github.com/Kanishka-Bisht04/leet/tree/master/0539-minimum-time-difference) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Kanishka-Bisht04/leet/tree/master/1435-xor-queries-of-a-subarray) |
+| [1603-running-sum-of-1d-array](https://github.com/Kanishka-Bisht04/leet/tree/master/1603-running-sum-of-1d-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Kanishka-Bisht04/leet/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Kanishka-Bisht04/leet/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2155-find-missing-observations](https://github.com/Kanishka-Bisht04/leet/tree/master/2155-find-missing-observations) |
@@ -74,6 +75,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Kanishka-Bisht04/leet/tree/master/0238-product-of-array-except-self) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Kanishka-Bisht04/leet/tree/master/1435-xor-queries-of-a-subarray) |
+| [1603-running-sum-of-1d-array](https://github.com/Kanishka-Bisht04/leet/tree/master/1603-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
