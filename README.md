@@ -12,6 +12,7 @@
 | [0238-product-of-array-except-self](https://github.com/Kanishka-Bisht04/leet/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Kanishka-Bisht04/leet/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Kanishka-Bisht04/leet/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Kanishka-Bisht04/leet/tree/master/0303-range-sum-query-immutable) |
 | [0539-minimum-time-difference](https://github.com/Kanishka-Bisht04/leet/tree/master/0539-minimum-time-difference) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Kanishka-Bisht04/leet/tree/master/1435-xor-queries-of-a-subarray) |
 | [1603-running-sum-of-1d-array](https://github.com/Kanishka-Bisht04/leet/tree/master/1603-running-sum-of-1d-array) |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Kanishka-Bisht04/leet/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/Kanishka-Bisht04/leet/tree/master/0303-range-sum-query-immutable) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Kanishka-Bisht04/leet/tree/master/1435-xor-queries-of-a-subarray) |
 | [1603-running-sum-of-1d-array](https://github.com/Kanishka-Bisht04/leet/tree/master/1603-running-sum-of-1d-array) |
 ## Two Pointers
@@ -127,4 +129,8 @@
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Kanishka-Bisht04/leet/tree/master/0386-lexicographical-numbers) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Kanishka-Bisht04/leet/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
