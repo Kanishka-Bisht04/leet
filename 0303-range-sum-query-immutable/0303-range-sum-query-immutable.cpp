@@ -4,11 +4,10 @@ private:
 
 public:
     NumArray(vector<int>& nums) {
-        int n = nums.size();
-        prefix.resize(n + 1); // prefix[0] = 0
+        prefix.push_back(0); // Start with 0 for easier calculation
 
-        for (int i = 0; i < n; i++) {
-            prefix[i + 1] = prefix[i] + nums[i];
+        for (int i = 0; i < nums.size(); i++) {
+            prefix.push_back(prefix[i] + nums[i]);
         }
     }
 
