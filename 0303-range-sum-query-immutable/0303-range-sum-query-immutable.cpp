@@ -1,22 +1,18 @@
 class NumArray {
+private:
+    vector<int> prefix;
+
 public:
-    vector<int> prefixSum;
-    NumArray(vector<int>& arr) {
-        prefixSum.resize(arr.size());
-        prefixSum[0] = arr[0];
-        for(int i=1;i<arr.size();i++){
-            prefixSum[i]=prefixSum[i-1]+arr[i];
+    NumArray(vector<int>& nums) {
+        int n = nums.size();
+        prefix.resize(n + 1); // prefix[0] = 0
+
+        for (int i = 0; i < n; i++) {
+            prefix[i + 1] = prefix[i] + nums[i];
         }
     }
-    
+
     int sumRange(int left, int right) {
-        if(left==0) return prefixSum[right];
-         return prefixSum[right]-prefixSum[left-1];
+        return prefix[right + 1] - prefix[left];
     }
 };
-
-/**
- * Your NumArray object will be instantiated and called as such:
- * NumArray* obj = new NumArray(nums);
- * int param_1 = obj->sumRange(left,right);
- */
