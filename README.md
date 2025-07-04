@@ -44,6 +44,7 @@
 | [2608-count-the-digits-that-divide-a-number](https://github.com/Kanishka-Bisht04/leet/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Kanishka-Bisht04/leet/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Kanishka-Bisht04/leet/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Kanishka-Bisht04/leet/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [1786-count-the-number-of-consistent-strings](https://github.com/Kanishka-Bisht04/leet/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Kanishka-Bisht04/leet/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Kanishka-Bisht04/leet/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Kanishka-Bisht04/leet/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -60,6 +62,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/Kanishka-Bisht04/leet/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/Kanishka-Bisht04/leet/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Kanishka-Bisht04/leet/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Kanishka-Bisht04/leet/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
