@@ -17,6 +17,7 @@
 | [0539-minimum-time-difference](https://github.com/Kanishka-Bisht04/leet/tree/master/0539-minimum-time-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Kanishka-Bisht04/leet/tree/master/0560-subarray-sum-equals-k) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Kanishka-Bisht04/leet/tree/master/1435-xor-queries-of-a-subarray) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Kanishka-Bisht04/leet/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1603-running-sum-of-1d-array](https://github.com/Kanishka-Bisht04/leet/tree/master/1603-running-sum-of-1d-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Kanishka-Bisht04/leet/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Kanishka-Bisht04/leet/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -130,10 +131,12 @@
 | [0179-largest-number](https://github.com/Kanishka-Bisht04/leet/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/Kanishka-Bisht04/leet/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/Kanishka-Bisht04/leet/tree/master/0539-minimum-time-difference) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Kanishka-Bisht04/leet/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Greedy
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Kanishka-Bisht04/leet/tree/master/0179-largest-number) |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Kanishka-Bisht04/leet/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -146,4 +149,8 @@
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Kanishka-Bisht04/leet/tree/master/0303-range-sum-query-immutable) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Kanishka-Bisht04/leet/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 <!---LeetCode Topics End-->
