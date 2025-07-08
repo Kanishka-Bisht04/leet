@@ -20,6 +20,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Kanishka-Bisht04/leet/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1603-running-sum-of-1d-array](https://github.com/Kanishka-Bisht04/leet/tree/master/1603-running-sum-of-1d-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Kanishka-Bisht04/leet/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Kanishka-Bisht04/leet/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Kanishka-Bisht04/leet/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2155-find-missing-observations](https://github.com/Kanishka-Bisht04/leet/tree/master/2155-find-missing-observations) |
 ## Hash Table
@@ -73,6 +74,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/Kanishka-Bisht04/leet/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/Kanishka-Bisht04/leet/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Kanishka-Bisht04/leet/tree/master/1236-n-th-tribonacci-number) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Kanishka-Bisht04/leet/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Memoization
 |  |
 | ------- |
@@ -125,6 +127,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Kanishka-Bisht04/leet/tree/master/0268-missing-number) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Kanishka-Bisht04/leet/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -132,6 +135,7 @@
 | [0268-missing-number](https://github.com/Kanishka-Bisht04/leet/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/Kanishka-Bisht04/leet/tree/master/0539-minimum-time-difference) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Kanishka-Bisht04/leet/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Kanishka-Bisht04/leet/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 ## Greedy
 |  |
 | ------- |
