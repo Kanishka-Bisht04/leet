@@ -23,6 +23,7 @@
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Kanishka-Bisht04/leet/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Kanishka-Bisht04/leet/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2155-find-missing-observations](https://github.com/Kanishka-Bisht04/leet/tree/master/2155-find-missing-observations) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Kanishka-Bisht04/leet/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -141,6 +142,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/Kanishka-Bisht04/leet/tree/master/0179-largest-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Kanishka-Bisht04/leet/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Kanishka-Bisht04/leet/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -157,4 +159,8 @@
 |  |
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Kanishka-Bisht04/leet/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+## Sliding Window
+|  |
+| ------- |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Kanishka-Bisht04/leet/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 <!---LeetCode Topics End-->
