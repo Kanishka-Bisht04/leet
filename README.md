@@ -119,6 +119,7 @@
 | [0539-minimum-time-difference](https://github.com/Kanishka-Bisht04/leet/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Kanishka-Bisht04/leet/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Kanishka-Bisht04/leet/tree/master/1786-count-the-number-of-consistent-strings) |
+| [3617-find-the-original-typed-string-i](https://github.com/Kanishka-Bisht04/leet/tree/master/3617-find-the-original-typed-string-i) |
 ## Counting
 |  |
 | ------- |
