@@ -37,6 +37,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Kanishka-Bisht04/leet/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Kanishka-Bisht04/leet/tree/master/0009-palindrome-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Kanishka-Bisht04/leet/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/Kanishka-Bisht04/leet/tree/master/0231-power-of-two) |
@@ -64,6 +65,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Kanishka-Bisht04/leet/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/Kanishka-Bisht04/leet/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Kanishka-Bisht04/leet/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/Kanishka-Bisht04/leet/tree/master/1013-fibonacci-number) |
@@ -107,6 +109,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Kanishka-Bisht04/leet/tree/master/0002-add-two-numbers) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Kanishka-Bisht04/leet/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Number Theory
 |  |
