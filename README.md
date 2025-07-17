@@ -23,6 +23,7 @@
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Kanishka-Bisht04/leet/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Kanishka-Bisht04/leet/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2155-find-missing-observations](https://github.com/Kanishka-Bisht04/leet/tree/master/2155-find-missing-observations) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Kanishka-Bisht04/leet/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Kanishka-Bisht04/leet/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Hash Table
 |  |
@@ -76,6 +77,7 @@
 | [1013-fibonacci-number](https://github.com/Kanishka-Bisht04/leet/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/Kanishka-Bisht04/leet/tree/master/1236-n-th-tribonacci-number) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Kanishka-Bisht04/leet/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Kanishka-Bisht04/leet/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Memoization
 |  |
 | ------- |
