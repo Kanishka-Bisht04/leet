@@ -124,6 +124,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kanishka-Bisht04/leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Kanishka-Bisht04/leet/tree/master/0005-longest-palindromic-substring) |
+| [0006-zigzag-conversion](https://github.com/Kanishka-Bisht04/leet/tree/master/0006-zigzag-conversion) |
 | [0179-largest-number](https://github.com/Kanishka-Bisht04/leet/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Kanishka-Bisht04/leet/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/Kanishka-Bisht04/leet/tree/master/0539-minimum-time-difference) |
