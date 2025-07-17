@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kanishka-Bisht04/leet/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Kanishka-Bisht04/leet/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kanishka-Bisht04/leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Kanishka-Bisht04/leet/tree/master/0031-next-permutation) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kanishka-Bisht04/leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -128,6 +129,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Kanishka-Bisht04/leet/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Kanishka-Bisht04/leet/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/Kanishka-Bisht04/leet/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Kanishka-Bisht04/leet/tree/master/0014-longest-common-prefix) |
 | [0179-largest-number](https://github.com/Kanishka-Bisht04/leet/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Kanishka-Bisht04/leet/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/Kanishka-Bisht04/leet/tree/master/0539-minimum-time-difference) |
@@ -165,6 +167,7 @@
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Kanishka-Bisht04/leet/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/Kanishka-Bisht04/leet/tree/master/0386-lexicographical-numbers) |
 ## Design
 |  |
