@@ -141,6 +141,7 @@
 | [0539-minimum-time-difference](https://github.com/Kanishka-Bisht04/leet/tree/master/0539-minimum-time-difference) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Kanishka-Bisht04/leet/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Kanishka-Bisht04/leet/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Kanishka-Bisht04/leet/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3617-find-the-original-typed-string-i](https://github.com/Kanishka-Bisht04/leet/tree/master/3617-find-the-original-typed-string-i) |
 ## Counting
 |  |
@@ -165,6 +166,7 @@
 | ------- |
 | [0179-largest-number](https://github.com/Kanishka-Bisht04/leet/tree/master/0179-largest-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Kanishka-Bisht04/leet/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Kanishka-Bisht04/leet/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Kanishka-Bisht04/leet/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Depth-First Search
 |  |
@@ -190,4 +192,8 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kanishka-Bisht04/leet/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1813-maximum-erasure-value](https://github.com/Kanishka-Bisht04/leet/tree/master/1813-maximum-erasure-value) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Kanishka-Bisht04/leet/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
+## Stack
+|  |
+| ------- |
+| [1818-maximum-score-from-removing-substrings](https://github.com/Kanishka-Bisht04/leet/tree/master/1818-maximum-score-from-removing-substrings) |
 <!---LeetCode Topics End-->
