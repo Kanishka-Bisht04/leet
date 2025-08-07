@@ -8,6 +8,7 @@
 | [0014-longest-common-prefix](https://github.com/Kanishka-Bisht04/leet/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kanishka-Bisht04/leet/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Kanishka-Bisht04/leet/tree/master/0031-next-permutation) |
+| [0066-plus-one](https://github.com/Kanishka-Bisht04/leet/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kanishka-Bisht04/leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/Kanishka-Bisht04/leet/tree/master/0179-largest-number) |
 | [0238-product-of-array-except-self](https://github.com/Kanishka-Bisht04/leet/tree/master/0238-product-of-array-except-self) |
@@ -46,6 +47,7 @@
 | [0002-add-two-numbers](https://github.com/Kanishka-Bisht04/leet/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Kanishka-Bisht04/leet/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Kanishka-Bisht04/leet/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Kanishka-Bisht04/leet/tree/master/0066-plus-one) |
 | [0172-factorial-trailing-zeroes](https://github.com/Kanishka-Bisht04/leet/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/Kanishka-Bisht04/leet/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Kanishka-Bisht04/leet/tree/master/0241-different-ways-to-add-parentheses) |
