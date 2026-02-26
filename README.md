@@ -76,6 +76,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kanishka-Bisht04/leet/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/Kanishka-Bisht04/leet/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/Kanishka-Bisht04/leet/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/Kanishka-Bisht04/leet/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Kanishka-Bisht04/leet/tree/master/0241-different-ways-to-add-parentheses) |
@@ -86,6 +87,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kanishka-Bisht04/leet/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/Kanishka-Bisht04/leet/tree/master/0010-regular-expression-matching) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kanishka-Bisht04/leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Kanishka-Bisht04/leet/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/Kanishka-Bisht04/leet/tree/master/1013-fibonacci-number) |
@@ -139,6 +141,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Kanishka-Bisht04/leet/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Kanishka-Bisht04/leet/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Kanishka-Bisht04/leet/tree/master/0008-string-to-integer-atoi) |
+| [0010-regular-expression-matching](https://github.com/Kanishka-Bisht04/leet/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/Kanishka-Bisht04/leet/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Kanishka-Bisht04/leet/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kanishka-Bisht04/leet/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
